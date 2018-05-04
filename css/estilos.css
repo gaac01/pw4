@@ -1,0 +1,13 @@
+nav ul li a.activo{
+    color: red;
+}
+
+header{
+    background-color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+    background-color: cadetblue;
+    
+}
